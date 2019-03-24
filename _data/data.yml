@@ -35,7 +35,7 @@ sidebar:
     #  - idiom: Spanish
     #    level: Professional
 
-   [[ interests:
+   interests:
       - item: Climbing
         link:
 
@@ -44,7 +44,7 @@ sidebar:
 
       - item: Cooking
         link:
-        ]]
+        
 
 career-profile:
     title: Key Attributes
