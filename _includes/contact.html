@@ -66,6 +66,12 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.keybase %}
+    <li class="keybase"><i class="fab fa-keybase"></i>
+      <a href="https://www.keybase.io/{{ sidebar.keybase }}" target="_blank">{{ sidebar.keybase }}</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
