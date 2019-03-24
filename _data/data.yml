@@ -3,38 +3,39 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jay Medina
+    tagline: Senior IT Pro | Business Writer | Privacy Advocate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: jay.medina@mailbox.org
+    phone: 512 786 4518
+    website: jaymedina.github.io #do not add http://
+    linkedin: jaymedina
+    github: jaymedina
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    keybase: jaymedina
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+    #  - idiom: French
+    #    level: Professional
 
-      - idiom: Spanish
-        level: Professional
+    #  - idiom: Spanish
+    #    level: Professional
 
-    interests:
+   interests:
       - item: Climbing
         link:
 
@@ -43,17 +44,21 @@ sidebar:
 
       - item: Cooking
         link:
+        
 
 career-profile:
-    title: Career Profile
+    title: Key Attributes
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    //  Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
 
       Second paragraph if required.
+      //
+      * Leadership | * Problem Solving
+      * Good Work | * Strong written
 
 education:
     - degree: MSc in Computer Science
